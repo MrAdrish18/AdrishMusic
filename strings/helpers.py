@@ -1,9 +1,9 @@
 #
-# Copyright (C) 2021-2022 by TeamYukki@Github, < https://github.com/TeamYukki >.
+# Copyright (C) 2021-2022 by MrAdrish18@Github, < https://github.com/MrAdrish18 >.
 #
-# This file is part of < https://github.com/TeamYukki/YukkiMusicBot > project,
+# This file is part of < https://github.com/MrAdrish18/AdrishMusic > project,
 # and is released under the "GNU v3.0 License Agreement".
-# Please see < https://github.com/TeamYukki/YukkiMusicBot/blob/master/LICENSE >
+# Please see < https://github.com/MrAdrish18/AdrishMusic/blob/master/LICENSE >
 #
 # All rights reserved.
 
@@ -66,7 +66,7 @@ HELP_3 = """✅<u>**Bot Commands:**</u>
 
 /stats - Get Top 10 Tracks Global Stats, Top 10 Users of bot, Top 10 Chats on bot, Top 10 Played in a chat etc etc.
 
-/sudolist - Check Sudo Users of Yukki Music Bot
+/sudolist - Check Sudo Users of Adrish Music Bot
 
 /lyrics [Music Name] - Searches Lyrics for the particular Music on web.
 
